@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+<a href="https://velog.io/@ffwang"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
   
 </div>
 

@@ -1,4 +1,4 @@
-<div align=center>
+
   
 ### Hi there 👋
 
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
   
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   
-</div>
+
 

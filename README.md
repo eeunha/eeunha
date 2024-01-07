@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### LINKS
+### :memo: LINKS :memo:
 <a href="https://velog.io/@ffwang"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
 <a href="mailto:eunha.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=eunha.dev@gmail.com"/></a>

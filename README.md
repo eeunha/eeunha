@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### :computer: STACKS :computer:
+## 🛠 Stacks
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp; 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp; 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp; 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### :memo: LINKS :memo:
+## :memo: Links
 <a href="https://velog.io/@ffwang"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
 <a href="mailto:eunha.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=eunha.dev@gmail.com"/></a>

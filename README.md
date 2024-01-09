@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## :memo: Links
 <a href="https://velog.io/@ffwang"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
+<a href="https://broad-bead-d9e.notion.site/77e98be3080847a08484708430b56568?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;
 <a href="mailto:eunha.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=eunha.dev@gmail.com"/></a>
 
 <br>

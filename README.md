@@ -1,6 +1,6 @@
 <div align=center>
   
-### Hi there 👋 I'm Hwang Eunha.
+### 👋 I'm Hwang Eunha. 👋
 
 <br>
 <br>
